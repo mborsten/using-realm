@@ -1,0 +1,6 @@
+framework module Pods_UsingRealm {
+  umbrella header "Pods-UsingRealm-umbrella.h"
+
+  export *
+  module * { export * }
+}
